@@ -1,0 +1,10 @@
+.get{
+    background-color: orangered;
+    border-radius: 10px;
+    width: 300px;
+    border: 8px solid rgb(96, 238, 20);
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+    margin-left: 550px;
+}
